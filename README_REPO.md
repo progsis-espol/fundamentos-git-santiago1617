@@ -6,4 +6,4 @@
 ** Lenguajes incluidos en el repo **
 - C++
 - Linux
-![alt text](https://www.facebook.com/347850105886568/photos/a.347862809218631/477986272872950/?__cft__[0]=AZWffg3TAUUTvGaaCPgsxBvwwiXUvTe0bD8RKfjpc3GOZkQKPXuvserJJWEGYHGILG0abp8QOqZSgIXbZq4NRH2pYnjakT5P1Ie3U1CxnQZP8IdYWL34_2vNhZViWXmJ9MvLZSP6g7Atmr4QGM5OpL0-YuRnISiAn_i0t2hUNxMVng&__tn__=EH-y-R)
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUWkBRP0cgjSX9mOK1eb1FrDN4mrdQzVizMw&usqp=CAU)
