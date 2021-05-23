@@ -6,4 +6,5 @@
 ** Lenguajes incluidos en el repo **
 - C++
 - Linux
+
 ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUWkBRP0cgjSX9mOK1eb1FrDN4mrdQzVizMw&usqp=CAU)
