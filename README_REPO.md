@@ -1,16 +1,15 @@
 # Este es el repositorio de Santiago Tumbaco
 ## Programacion de sistemas
 
-** Descripcion: ** 
+** Descripcion: **.
 
 Este es un repositorio para trabajos de sistemas digitales
 
-** Propietario: ** 
+** Propietario: **.
 
 [Santiago Tumbaco](https://github.com/santiago1617)
 
-** Lenguajes incluidos en el repo **
-
+** Lenguajes incluidos en el repo **.
 - C++
 - Linux
 
