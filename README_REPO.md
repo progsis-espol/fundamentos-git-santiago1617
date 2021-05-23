@@ -7,4 +7,4 @@
 - C++
 - Linux
 
-![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUWkBRP0cgjSX9mOK1eb1FrDN4mrdQzVizMw&usqp=CAU)
+![alt text](https://www.bbva.com/wp-content/uploads/2018/11/BBVA-programacion-1024x629.jpg)
